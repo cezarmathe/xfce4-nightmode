@@ -3,6 +3,9 @@
 
 This is a small script that enables "night mode" for xfce4 by changing the theme from Arc to Arc Dark and vice versa.
 
+## Requirements
+Have the Arc themes installed on your system.
+
 ## Usage
 	
 To turn night mode on, use
