@@ -55,7 +55,7 @@ func main() {
 			panic(err2)
 		}
 
-		fmt.Println("Night mode on.")
+		fmt.Println("Night mode off.")
 		os.Exit(0)
 	}
 
